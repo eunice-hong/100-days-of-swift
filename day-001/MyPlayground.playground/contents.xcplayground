@@ -6,5 +6,6 @@
         <page name='MultilineStrings'/>
         <page name='DoublesBooleans'/>
         <page name='StringInterpolation'/>
+        <page name='Constants'/>
     </pages>
 </playground>

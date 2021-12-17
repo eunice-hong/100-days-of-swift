@@ -4,5 +4,6 @@
         <page name='StringsIntegers'/>
         <page name='Untitled Page'/>
         <page name='MultilineStrings'/>
+        <page name='DoublesBooleans'/>
     </pages>
 </playground>

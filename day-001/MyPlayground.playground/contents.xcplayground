@@ -7,5 +7,6 @@
         <page name='DoublesBooleans'/>
         <page name='StringInterpolation'/>
         <page name='Constants'/>
+        <page name='TypeAnnotations'/>
     </pages>
 </playground>

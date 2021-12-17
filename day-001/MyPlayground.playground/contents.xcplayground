@@ -3,5 +3,6 @@
     <pages>
         <page name='StringsIntegers'/>
         <page name='Untitled Page'/>
+        <page name='MultilineStrings'/>
     </pages>
 </playground>
